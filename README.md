@@ -1,7 +1,7 @@
 # 22S-Data-Science-Workshop
-An introduction to NumPy, Seaborn, pandas, and more!
+*An introduction to NumPy, Seaborn, pandas, and more!*
 
-Squirrels!: https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw
+**NYC Central Park Squirrels:** https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw
 
 ### Want some hands-on practice?
 
